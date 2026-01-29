@@ -1,5 +1,24 @@
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+# Numerical computing
+numpy>=1.23
+scipy>=1.9
+
+# Data manipulation
+pandas>=1.5
+
+# Visualization
+matplotlib>=3.6
+seaborn>=0.12
+
+# Jupyter ecosystem
+jupyter>=1.0
+notebook>=6.5
+ipykernel>=6.20
+
+# Machine Learning (for later stages)
+scikit-learn>=1.2
+
+# Utilities
+tqdm>=4.64
+
+# Optional but recommended
+joblib>=1.2
