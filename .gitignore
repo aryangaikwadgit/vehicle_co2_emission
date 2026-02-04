@@ -1,5 +1,13 @@
-Data.csv
-model.pkl
+# Python
 __pycache__/
+*.pyc
+
+# Jupyter
 .ipynb_checkpoints/
-Data/
+
+# Models
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
